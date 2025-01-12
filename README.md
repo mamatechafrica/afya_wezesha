@@ -71,23 +71,29 @@ We welcome contributions to make Sauti Safe even better!
 1. Fork the repository.
 3. Create a feature branch:  
     ```bash
-  git checkout -b feature-name
+      git checkout -b feature-name
 
 4. Commit changes
     ```bash
-  git commit -m "Add feature-name" 
+      git commit -m "Add feature-name" 
 
 5. Push changes to the branch
      ```bash 
-  git push origin feature-name  
+      git push origin feature-name  
 
 6. Create a pull request.
 
 Please review our Contributing Guidelines ( add link) for more details.
 
+---
+
 ## License
 This project is licensed under the AGPL-3.0 License.
+
+---
 
 ## Acknowledgments
 The Sauti Safe App was inspired by the courage of GBV survivors and the resilience of communities working to create a safer world. Special thanks to Youth Changers Kenya (YCK) for piloting this initiative and to all contributors who believe in the power of technology for social good.
 
+For questions, feedback, or to report an issue, contact us at support@mama-tech.com.
+*Let’s empower survivors together.*
