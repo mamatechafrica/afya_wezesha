@@ -21,8 +21,8 @@
         "url": "https://mama-tech.com/projects/sauti-safe-app"
       },
       "repositoryUrl": {
-        "url": "https://github.com/mama-tech/sauti-safe-app",
-        "wellKnown": "https://github.com/mama-tech/sauti-safe-app/blob/main/.well-known/funding-manifest-urls"
+        "url": "https://github.com/mamatechafrica/sautisafe",
+        "wellKnown": "https://github.com/mamatechafrica/sautisafe/blob/main/funding.json"
       },
       "licenses": [
         "spdx:AGPL-3.0"
