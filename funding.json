@@ -47,7 +47,7 @@
       {
         "guid": "paypal-donation",
         "type": "payment-provider",
-        "paypal-email": "naijeria(at)gmail.com",
+        "paypal-email": "naijeria@gmail.com",
         "description": "Donate securely through PayPal. Recurring subscriptions are also supported."
       }
     ],
