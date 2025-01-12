@@ -18,11 +18,12 @@
       "name": "Sauti Safe GBV/SV Incident Reporting App",
       "description": "The GBV/Sexual Violence Incident Reporting App is an open-source platform designed to empower communities to address gender-based violence by providing a secure, anonymous, and accessible way to report incidents and streamline response workflows. The app integrates WhatsApp, a Progressive Web App (PWA), and a secure backend to ensure usability and confidentiality for survivors and organizations supporting them. This tool is being piloted with Youth Changers Kenya (YCK) and will be available for global adoption.",
       "webpageUrl": {
-        "url": "https://mama-tech.com/projects/sauti-safe-app"
+        "url": "https://mamatech.co.ke/projects/sauti-safe-app",
+        "wellKnown": "https://mamatech.co.ke/projects/sauti-safe-app/.well-known/funding-manifest-urls"
       },
       "repositoryUrl": {
         "url": "https://github.com/mamatechafrica/sautisafe",
-        "wellKnown": "https://github.com/mamatechafrica/sautisafe/blob/main/funding.json"
+        "wellKnown": "https://github.com/mamatechafrica/sautisafe/.well-known/funding-manifest-urls"
       },
       "licenses": [
         "spdx:AGPL-3.0"
@@ -47,7 +48,7 @@
       {
         "guid": "paypal-donation",
         "type": "payment-provider",
-        "paypal-email": "naijeria@gmail.com",
+        "address": "",
         "description": "Donate securely through PayPal. Recurring subscriptions are also supported."
       }
     ],
@@ -55,7 +56,7 @@
       {
         "guid": "hosting-support",
         "status": "active",
-        "name": "Hosting Support",
+        "name": "Hosting Support and 3rd party subscriptions",
         "description": "Covers monthly hosting costs for the GBV Incident Reporting App.",
         "amount": 300,
         "currency": "USD",
@@ -95,6 +96,7 @@
         "year": 2025,
         "income": 1500,
         "expenses": 1500,
+        "taxes": 0,
         "currency": "USD",
         "description": "Conceptualization and development of Pilot App"
       }
