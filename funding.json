@@ -92,11 +92,11 @@
     ],
     "history": [
       {
-        "year": 2024,
-        "income": 2500,
-        "expenses": 2500,
+        "year": 2025,
+        "income": 1500,
+        "expenses": 1500,
         "currency": "USD",
-        "description": "Conceptualization and development of Pilot"
+        "description": "Conceptualization and development of Pilot App"
       }
     ]
   }
