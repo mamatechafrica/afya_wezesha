@@ -95,5 +95,5 @@ This project is licensed under the AGPL-3.0 License.
 ## Acknowledgments
 The Sauti Safe App was inspired by the courage of GBV survivors and the resilience of communities working to create a safer world. Special thanks to Youth Changers Kenya (YCK) for piloting this initiative and to all contributors who believe in the power of technology for social good.
 
-For questions, feedback, or to report an issue, contact us at support@mama-tech.com.
+For questions, feedback, or to report an issue, contact us at info@mamatech.co.ke
 *Let’s empower survivors together.*
