@@ -30,7 +30,7 @@ The **Sauti Safe App** is a secure and user-friendly Software-as-a-Service (SaaS
 
 ## Technologies  
 The Sauti Safe App leverages the following technologies:  
-- **Frontend**: HTML5, CSS3, Bootstrap 5, and JavaScript  
+- **Frontend**: Tailwind css 
 - **Backend**: Ruby on Rails  
 - **Database**: PostgreSQL  
 - **APIs**: Twilio API (for WhatsApp integration), Google Maps API (for locating nearby resources)  
